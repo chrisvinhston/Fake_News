@@ -1,6 +1,6 @@
 # Fake_News
 Model prediction to determine Fake News
-by Estelle Liaubet and  Chris Vinh
+by Estelle Liaubet and Chris Vinh
 DRAFT May 2021, Iron Hack, Paris
 
 ## Content
@@ -16,6 +16,7 @@ Visualization
 Apply Machine learning
 Presentation
 
+
 ### 2. Project Description
 Can we detect fake news using machine learning classification. 
 
@@ -28,4 +29,4 @@ Use TfidfVectorizer
 Pass into PassiveAgressiveClassifier
 Check results using confusion matrix and Precision/Recall
 Use model on scraped data and check results. 
-Make presentation. 
+Make presentation (https://docs.google.com/presentation/d/10KIh1QW8Tsh8utRVCeo_TuQ2fiJj0L5BVNhTmMfKyYM/edit?usp=sharing)
